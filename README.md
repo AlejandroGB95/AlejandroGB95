@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra foto mia.jpg" width="100%" alt="Banner Personal">
+  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra foto mia.jpg" width="100px" height="100px" alt="Banner Personal">
 </p>
 
 <h1 align="center">¡Hola 👋, soy Alejandro!</h1>
