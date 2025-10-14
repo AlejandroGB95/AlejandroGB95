@@ -1,10 +1,9 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
 <!-- Banner animado con fallback a imagen estática -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4E9AF1&center=true&vCenter=true&width=950&lines=👋+Hola%2C+soy+Alejandro+Garc%C3%ADa+Ben%C3%ADtez;💻+Desarrollador+Full+Stack;🚀+Transformando+ideas+en+soluciones+tecnol%C3%B3gicas;🌍+Desde+Espa%C3%B1a;🧠+Aprendiendo+y+mejorando+cada+d%C3%ADa" 
-       alt="Banner animado Alejandro García Benítez"
-       onerror="this.onerror=null;this.src='https://www.shutterstock.com/image-photo/data-processing-digital-technology-software-260nw-2264738681.jpg';" />
+  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80" alt="Banner profesional" width="100%" />
 </p>
+
 
 
 
