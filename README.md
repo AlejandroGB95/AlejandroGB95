@@ -1,6 +1,6 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
 <p align="center">
-  <img src="https://www.shutterstock.com/image-photo/data-processing-digital-technology-software-260nw-2264738681.jpg" alt="Banner profesional" width="700" />
+  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="800" />
 </p>
 
 
