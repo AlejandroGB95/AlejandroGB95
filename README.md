@@ -78,17 +78,17 @@
 🏆 Proyecto “Portafolio Web”
 Un sitio web personal que muestra mis trabajos, blog y servicios. El objetivo fue construir una interfaz moderna y totalmente responsive, optimizar el rendimiento en dispositivos móviles y aplicar buenas prácticas de accesibilidad.
 🧰 Tecnologías: HTML5, CSS3, JavaScript, GitHub Pages.
-🔗 Ver repositorio
+🔗 Ver repositorio (https://github.com/AlejandroGB95/Portafolios)
 
 🧠 Proyecto “Aplicación de Administración de Tareas” (inspirada en la productividad real)
 Una aplicación web que permite crear, actualizar y eliminar tareas, además de contar con un sistema de registro e inicio de sesión para usuarios. El principal reto fue implementar la lógica de autenticación y CRUD de forma estructurada y segura.
 🧰 Tecnologías: Python, Flask, SQL, HTML5, CSS3.
-🔗 Ver repositorio
+🔗 Ver repositorio (https://github.com/AlejandroGB95/Aplicacion-de-Administraci-n-de-Tareas-Solo-Leveling)
 
 ⚡ Proyecto “PokeDex App” (inspirado en la PokeAPI)
 Aplicación web que permite buscar y visualizar información de Pokémon en tiempo real consumiendo una API pública. El reto fue manejar estados de carga, paginación dinámica y errores de red, además de diseñar una UI limpia y responsiva.
 🧰 Tecnologías: React, JavaScript, Fetch API, CSS Modules.
-🔗 Ver repositorio
+🔗 Ver repositorio (https://github.com/AlejandroGB95/Pokedex_AlejandroDev)
 
 ---
 
