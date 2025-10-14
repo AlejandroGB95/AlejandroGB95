@@ -1,11 +1,7 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
 <p align="center">
-  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="900" />
+  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="1000" />
 </p>
-
-
-
-
 
 <!-- 🌊 Fondo superior animado -->
 <p align="center">
@@ -107,10 +103,13 @@
 </p>
 
 ---
+<!-- 🌊 Fondo inferior animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4e9af1&height=100&section=header" width="100%" alt="Fondo animado"/>
+</p>
 
 <!-- 🌊 Fondo inferior animado -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="1000" />
 </p>
 
