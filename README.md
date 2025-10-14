@@ -1,7 +1,11 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
+<!-- Banner animado con fallback a imagen estática -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4E9AF1&center=true&vCenter=true&width=950&lines=👋+Hola%2C+soy+Alejandro+Garc%C3%ADa+Ben%C3%ADtez;💻+Desarrollador+Full+Stack;🚀+Transformando+ideas+en+soluciones+tecnol%C3%B3gicas;🌍+Desde+Espa%C3%B1a;🧠+Aprendiendo+y+mejorando+cada+d%C3%ADa" alt="Banner animado Alejandro García Benítez" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4E9AF1&center=true&vCenter=true&width=950&lines=👋+Hola%2C+soy+Alejandro+Garc%C3%ADa+Ben%C3%ADtez;💻+Desarrollador+Full+Stack;🚀+Transformando+ideas+en+soluciones+tecnol%C3%B3gicas;🌍+Desde+Espa%C3%B1a;🧠+Aprendiendo+y+mejorando+cada+d%C3%ADa" 
+       alt="Banner animado Alejandro García Benítez"
+       onerror="this.onerror=null;this.src='https://www.shutterstock.com/image-photo/data-processing-digital-technology-software-260nw-2264738681.jpg';" />
 </p>
+
 
 
 <!-- 🌊 Fondo superior animado -->
@@ -107,5 +111,7 @@
 
 <!-- 🌊 Fondo inferior animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e9af1,100:0d1b2a&height=100&section=footer" width="100%" alt="Fondo animado"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </p>
+
