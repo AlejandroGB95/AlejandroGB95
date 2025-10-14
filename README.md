@@ -76,10 +76,19 @@
 ✨ Mis tres proyectos que considero más representativos:
 
 🏆 Proyecto “Portafolio Web”
- — Un sitio web personal que muestra mis trabajos, blog y servicios. Resolví el desafío de diseñar una interfaz responsive, optimizar el rendimiento para móviles y asegurar la accesibilidad. Tecnologías: HTML5, CSS3, JavaScript, GitHub Pages.
+Un sitio web personal que muestra mis trabajos, blog y servicios. El objetivo fue construir una interfaz moderna y totalmente responsive, optimizar el rendimiento en dispositivos móviles y aplicar buenas prácticas de accesibilidad.
+🧰 Tecnologías: HTML5, CSS3, JavaScript, GitHub Pages.
+🔗 Ver repositorio
 
-🧠 Proyecto “API de Tareas”
- — Backend REST para manejar tareas con autenticación básica. Aprendí a estructurar rutas, manejar peticiones HTTP, errores, y trabajar con JSON e integración con base de datos SQL. Tecnologías: Python, Flask, SQL.
+🧠 Proyecto “Aplicación de Administración de Tareas” (inspirada en la productividad real)
+Una aplicación web que permite crear, actualizar y eliminar tareas, además de contar con un sistema de registro e inicio de sesión para usuarios. El principal reto fue implementar la lógica de autenticación y CRUD de forma estructurada y segura.
+🧰 Tecnologías: Python, Flask, SQL, HTML5, CSS3.
+🔗 Ver repositorio
+
+⚡ Proyecto “PokeDex App” (inspirado en la PokeAPI)
+Aplicación web que permite buscar y visualizar información de Pokémon en tiempo real consumiendo una API pública. El reto fue manejar estados de carga, paginación dinámica y errores de red, además de diseñar una UI limpia y responsiva.
+🧰 Tecnologías: React, JavaScript, Fetch API, CSS Modules.
+🔗 Ver repositorio
 
 ---
 
