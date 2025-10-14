@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4E9AF1&center=true&vCenter=true&width=950&lines=👋+Hola%2C+soy+Alejandro+Garc%C3%ADa+Ben%C3%ADtez;💻+Desarrollador+Full+Stack;🚀+Transformando+ideas+en+soluciones+tecnol%C3%B3gicas;🌍+Desde+Espa%C3%B1a;🧠+Aprendiendo+y+mejorando+cada+d%C3%ADa" alt="Banner animado Alejandro García Benítez" />
 </p>
 
+
 <!-- 🌊 Fondo superior animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4e9af1&height=100&section=header" width="100%" alt="Fondo animado"/>
