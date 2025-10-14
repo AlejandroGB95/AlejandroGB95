@@ -22,6 +22,9 @@
 </p>
 
 ---
+📄 Descargar CV
+<p align="center"> <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV_AlejandroGarciaBenitez.pdf" download> <img src="https://img.shields.io/badge/📄%20Descargar%20CV-4E9AF1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Botón Descargar CV"> </a> </p>
+---
 
 ## 🚀 Sobre mí
 
