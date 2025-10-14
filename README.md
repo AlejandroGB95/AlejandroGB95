@@ -1,5 +1,9 @@
 <!-- Banner superior -->
 <p align="center">
+  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c" alt="Banner profesional" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra foto mia.jpg" width="300px" height="300px" alt="Banner Personal">
 </p>
 
