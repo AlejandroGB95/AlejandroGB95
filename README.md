@@ -68,9 +68,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Lenguajes más usados"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AlejandroGB95&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
