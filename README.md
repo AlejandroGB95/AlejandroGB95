@@ -1,6 +1,6 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80" alt="Banner profesional" width="700" />
+  <img src="https://www.shutterstock.com/image-photo/data-processing-digital-technology-software-260nw-2264738681.jpg" alt="Banner profesional" width="700" />
 </p>
 
 
