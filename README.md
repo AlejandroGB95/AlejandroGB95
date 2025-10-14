@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra foto mia.jpg" width="300px" height="300px" alt="Banner Personal">
+  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra foto mia.jpg" width="150" alt="Foto de Alejandro" />
 </p>
+
 
 <h1 align="center">¡Hola 👋, soy Alejandro!</h1>
 
