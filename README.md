@@ -1,6 +1,6 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
 <p align="center">
-  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="800" />
+  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="900" />
 </p>
 
 
