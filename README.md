@@ -1,8 +1,8 @@
 <!-- 🌟 Banner animado superior con efecto typing -->
-<!-- Banner animado con fallback a imagen estática -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80" alt="Banner profesional" width="100%" />
+  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1200&q=80" alt="Banner profesional" width="700" />
 </p>
+
 
 
 
