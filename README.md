@@ -1,6 +1,7 @@
-<!-- 🌟 Banner superior -->
+
+<!-- 🌌 Banner superior -->
 <p align="center">
-  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="1000" />
+  <img src="https://i.ibb.co/NxX3zFd/neon-header.gif" width="1000" alt="Banner Profesional Neón" />
 </p>
 
 <!-- 🌊 Fondo superior animado -->
@@ -10,135 +11,135 @@
 
 <!-- 👤 Foto personal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="160" alt="Foto de Alejandro" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(78,154,241,0.6);" />
+  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="160" alt="Foto de Alejandro" style="border-radius: 50%; box-shadow: 0px 0px 25px rgba(78,154,241,0.8);" />
 </p>
 
-<h1 align="center" style="color:#4e9af1;">👋 ¡Hola! Soy <strong>Alejandro García Benítez</strong></h1>
-<h3 align="center">💻 Desarrollador Full Stack | 🧠 Solucionador de problemas | 🇪🇸 España</h3>
+<h1 align="center" style="color:#00b4d8;">✨ Alejandro García Benítez ✨</h1>
+<h3 align="center" style="color:#caf0f8;">💻 Desarrollador Full Stack | 🧠 Solucionador de problemas | 🇪🇸 España</h3>
 
-<p align="center">
+<p align="center" style="color:#90e0ef;">
   🚀 <em>"El código no solo construye aplicaciones... también construye oportunidades."</em>
 </p>
 
 ---
 
 ## 📄 CV y Portafolio
+
 <p align="center">
   <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20Descargar%20CV-4E9AF1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Botón Descargar CV">
+    <img src="https://img.shields.io/badge/📄%20Descargar%20CV-0077B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Botón Descargar CV">
   </a>
   <a href="https://alejandrogb95.github.io/Portafolios/">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-1B263B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Botón Ver Portafolio">
+    <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-03045E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Botón Ver Portafolio">
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 🧬 Sobre mí
 
-Soy **Desarrollador Full Stack** con formación en **Desarrollo de Aplicaciones Web (DAW)**.  
-Disfruto transformar ideas en código funcional, escalable y visualmente atractivo.  
-Lo que me define no es solo la tecnología que uso, sino **cómo enfrento los retos técnicos y los convierto en oportunidades de aprendizaje.**
+Soy **Desarrollador Full Stack** formado en **Desarrollo de Aplicaciones Web (DAW)**, con un enfoque técnico, creativo y constante en la mejora continua.  
+Me apasiona entender cómo funcionan las cosas y **convertir problemas complejos en soluciones elegantes y funcionales.**
 
-🧩 **Algunas cosas sobre mí:**
-- Me gusta **entender la lógica detrás de cada línea**, no solo escribirla.  
-- Cuando algo falla, no me frustro: **investigo, experimento y lo documento.**  
-- Me adapto rápido a nuevos entornos y frameworks (porque lo disfruto).  
-- Creo que el código debe ser **legible, mantenible y con propósito.**
+💡 **Me definen:**
+- Perseverancia y mentalidad de crecimiento.  
+- Curiosidad por descubrir nuevas tecnologías.  
+- Capacidad para aprender rápido y adaptarme a entornos cambiantes.  
+- Compromiso con la calidad del código, la arquitectura y la experiencia del usuario.
 
 📬 **Contacto directo:** [alexdack95@gmail.com](mailto:alexdack95@gmail.com)
 
 ---
 
-## 🧠 Stack Tecnológico
+## ⚙️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,django,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,django,java,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
 ## 🏗️ Áreas de especialización
 
-- 🎨 **Frontend:** Interfaces limpias, accesibles y optimizadas para UX real.  
-- ⚙️ **Backend:** APIs REST seguras y estructuradas, autenticación y sesiones.  
-- 🗄️ **Bases de datos:** Diseño lógico y consultas eficientes (MySQL, SQLite).  
-- ☁️ **DevOps básico:** Despliegues en GitHub Pages y servidores ligeros.  
-- 📈 **Buenas prácticas:** Clean Code, modularidad, testing básico y documentación.
+🌐 **Frontend:** desarrollo de interfaces dinámicas, UX/UI y rendimiento.  
+🧠 **Backend:** APIs REST, autenticación, seguridad y estructura limpia.  
+🗄️ **Base de datos:** diseño relacional, consultas y normalización.  
+🚀 **DevOps básico:** despliegue, integración continua y Git Flow.  
+✨ **Buenas prácticas:** código mantenible, testing, documentación clara.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Estadísticas de GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Lenguajes más usados"/>
 </p>
 
 ---
 
 ## 🧭 Proyectos Destacados
 
-### 🏆 [Portafolio Web Personal](https://github.com/AlejandroGB95/Portafolios)
-> Un proyecto donde **construí mi propia marca digital**.  
-> El objetivo era crear una web moderna, responsive y totalmente optimizada para móviles, combinando diseño y rendimiento.  
-> Me enfrenté al reto de estructurar una **navegación clara y accesible**, manteniendo coherencia visual con animaciones suaves y sin comprometer la carga.  
+### 🏆 [🌐 Portafolio Web Personal](https://github.com/AlejandroGB95/Portafolios)
+> Mi carta de presentación digital. Diseñé y desarrollé este sitio desde cero con el objetivo de reflejar mi identidad como desarrollador.  
+> El principal desafío fue crear una experiencia fluida, moderna y **totalmente responsive**, cuidando tanto la estética como el rendimiento.  
+> Aprendí a **optimizar recursos, estructurar contenido y mantener coherencia visual** a nivel profesional.
 
-**🔧 Tecnologías:** HTML5, CSS3, JavaScript, GitHub Pages.  
-**💡 Lo que aprendí:** cómo comunicar mi identidad profesional a través del diseño, cómo optimizar imágenes y CSS para mejorar el tiempo de carga y cómo versionar el contenido del sitio.  
-
----
-
-### 🧠 [Aplicación de Administración de Tareas](https://github.com/AlejandroGB95/Aplicacion-de-Administraci-n-de-Tareas-Solo-Leveling)
-> Una app CRUD completa que permite crear, editar y eliminar tareas, con **registro y login de usuarios**.  
-> El mayor desafío fue implementar **autenticación segura y persistencia de sesiones**, lo cual resolví con Flask y SQLAlchemy.  
-> Además, diseñé un sistema modular para mantener un código **limpio y escalable**.
-
-**🔧 Tecnologías:** Python, Flask, SQL, HTML5, CSS3.  
-**💡 Lo que aprendí:** estructura MVC, gestión de rutas dinámicas, validaciones backend y cómo convertir errores en documentación útil.  
+**🧰 Stack:** HTML5 · CSS3 · JavaScript · GitHub Pages  
+**💡 Aprendizaje clave:** aplicar principios de UX/UI y optimización para mejorar la experiencia del usuario real.
 
 ---
 
-### ⚡ [PokeDex App](https://github.com/AlejandroGB95/Pokedex_AlejandroDev)
-> Una aplicación inspirada en la PokeAPI que muestra información en tiempo real.  
-> Aquí me enfrenté al reto de manejar **estados de carga, paginación dinámica y errores de red**, aplicando principios de asincronía y UX reactiva.  
-> Implementé un diseño responsive con componentes reutilizables, logrando fluidez incluso en conexiones lentas.  
+### 🧠 [✅ Aplicación de Administración de Tareas](https://github.com/AlejandroGB95/Aplicacion-de-Administraci-n-de-Tareas-Solo-Leveling)
+> Una aplicación CRUD con autenticación de usuarios.  
+> Me enfrenté al reto de diseñar un **sistema de login seguro**, sesiones persistentes y una estructura escalable.  
+> Implementé un flujo de datos modular y limpio, siguiendo el patrón MVC y mejorando mis habilidades en backend.
 
-**🔧 Tecnologías:** React, JavaScript (Fetch API), CSS Modules.  
-**💡 Lo que aprendí:** manejo avanzado del estado, optimización de renderizados y buenas prácticas de comunicación con APIs REST.  
-
----
-
-### ☕ [Proyectos en Java con JavaFX](https://github.com/AlejandroGB95/Proyectos-Java)
-> Colección de proyectos creados con JavaFX, abarcando desde CRUDs con base de datos hasta sistemas de interfaz gráfica avanzada.  
-> Aprendí a combinar **lógica de negocio, controladores FXML y diseño visual con Scene Builder**, reforzando la importancia del patrón MVC.  
-
-**🔧 Tecnologías:** Java, JavaFX, Scene Builder, MySQL, Maven.  
-**💡 Lo que aprendí:** modularización de clases, eventos en tiempo real y la importancia del diseño intuitivo en escritorio.
+**🧰 Stack:** Python · Flask · SQLAlchemy · HTML · CSS  
+**💡 Aprendizaje clave:** seguridad en autenticación, control de sesiones y organización de proyectos a nivel profesional.
 
 ---
 
-## 🌍 Filosofía de trabajo
+### ⚡ [🎮 PokeDex App](https://github.com/AlejandroGB95/Pokedex_AlejandroDev)
+> Proyecto creado con React que consume la **PokeAPI pública** para mostrar información en tiempo real.  
+> Enfrenté el desafío de manejar **estados asincrónicos, errores de red y paginación dinámica**, logrando una experiencia rápida y fluida.  
+> Apliqué diseño modular con componentes reutilizables y aprendí a trabajar con **renderizado condicional y optimización de performance.**
 
-> “No busco solo que algo funcione, busco entender *por qué* funciona.”  
-Cada proyecto que realizo es una oportunidad para mejorar mi forma de pensar, optimizar procesos y crear soluciones que aporten valor real.
+**🧰 Stack:** React · JavaScript (Fetch API) · CSS Modules  
+**💡 Aprendizaje clave:** asincronía, paginación dinámica y patrones de renderizado optimizado.
 
-Me inspiro en equipos colaborativos, código limpio y proyectos donde el aprendizaje nunca se detiene.
+---
+
+### ☕ [💻 Proyectos en Java con JavaFX](https://github.com/AlejandroGB95/Proyectos-Java)
+> Colección de proyectos educativos y personales desarrollados en JavaFX.  
+> Implementé desde CRUDs hasta sistemas visuales con múltiples vistas, aplicando **Scene Builder y el patrón MVC**.  
+> Logré dominar la integración entre interfaz gráfica y lógica de negocio.
+
+**🧰 Stack:** Java · JavaFX · Scene Builder · MySQL · Maven  
+**💡 Aprendizaje clave:** modularización, arquitectura limpia y control eficiente de eventos.
+
+---
+
+## 🌍 Filosofía de desarrollo
+
+> “No busco solo que algo funcione, busco entender por qué funciona.”
+
+Mi objetivo es seguir creciendo profesionalmente, contribuir en equipos donde el conocimiento se comparte, y crear proyectos que combinen **buen código + diseño + propósito real.**
 
 ---
 
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="mailto:alexdack95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/AlejandroGB95"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:alexdack95@gmail.com"><img src="https://img.shields.io/badge/Email-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/"><img src="https://img.shields.io/badge/LinkedIn-00A6FB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/AlejandroGB95"><img src="https://img.shields.io/badge/GitHub-141321?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 💬 Frase que me representa
-<p align="center" style="font-style: italic; font-size: 18px;">
+<p align="center" style="font-style: italic; font-size: 18px; color:#48cae4;">
   “El mejor código no es el que solo funciona… es el que otros pueden entender, mantener y mejorar.”
 </p>
 
@@ -146,4 +147,3 @@ Me inspiro en equipos colaborativos, código limpio y proyectos donde el aprendi
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4e9af1&height=100&section=footer" width="100%" alt="Fondo animado"/>
 </p>
-
