@@ -24,7 +24,7 @@
 
 ## 📄 CV y Portafolio
 <p align="center">
-  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV.pdf" download>
+  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/Alejandro_Garcia_Benitez_CV_Desarrollador_FullStack.pdf" download>
     <img src="https://img.shields.io/badge/📄%20Descargar%20CV-4E9AF1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Botón Descargar CV">
   </a>
   <a href="https://alejandrogb95.github.io/Portafolios/">
