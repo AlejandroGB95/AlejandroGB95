@@ -71,11 +71,9 @@ Lo que me define no es solo la tecnología que uso, sino **cómo enfrento los re
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
-
----
 
 ## 🧭 Proyectos Destacados
 
