@@ -24,7 +24,7 @@
 
 ## 📄 CV y Portafolio
 <p align="center">
-  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV Alejandro_Garcia_Benitez 2026.pdf" download>
+  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV Alejandro Garcia Benitez 2026.pdf" download>
     <img src="https://img.shields.io/badge/📄%20Descargar%20CV-4E9AF1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Botón Descargar CV">
   </a>
   <a href="https://alejandrogb95.github.io/Portafolios/">
