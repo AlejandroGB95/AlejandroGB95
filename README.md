@@ -1,6 +1,6 @@
 <!-- 🌟 Banner superior -->
 <p align="center">
-  <img src="https://img.pikbest.com/backgrounds/20190717/gif-purple-blue-neon-color-strip-dynamic-banner-background_2758296.jpg!w700wp" alt="Banner profesional" width="1000" />
+  <img src="https://cdn.vectorstock.com/i/500p/23/07/modern-software-development-ui-vector-42172307.jpg" alt="Banner profesional" width="1000" />
 </p>
 
 <!-- 🌊 Fondo superior animado -->
