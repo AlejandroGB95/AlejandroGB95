@@ -1,8 +1,8 @@
 <!-- 🌟 Banner superior -->
-<p align="center">
+<!--<p align="center">
   <img src="" alt="Banner profesional" width="1000" />
-</p>
-
+</p> -->
+<!-- 🌟 Banner superior -->
 <!-- 🌊 Fondo superior animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4e9af1&height=100&section=header" width="100%" alt="Fondo animado"/>
