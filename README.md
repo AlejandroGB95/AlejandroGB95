@@ -1,6 +1,6 @@
 <!-- 🌟 Banner superior -->
 <p align="center">
-  <img src="https://cdn.vectorstock.com/i/500p/23/07/modern-software-development-ui-vector-42172307.jpg" alt="Banner profesional" width="1000" />
+  <img src="" alt="Banner profesional" width="1000" />
 </p>
 
 <!-- 🌊 Fondo superior animado -->
