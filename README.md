@@ -1,34 +1,27 @@
-<!-- 🌟 Banner superior -->
-<!--<p align="center">
-  <img src="" alt="Banner profesional" width="1000" />
-</p> -->
-<!-- 🌟 Banner superior -->
-<!-- 🌊 Fondo superior animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4e9af1&height=100&section=header" width="100%" alt="Fondo animado"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00f0ff&height=120&section=header&text=Alejandro%20García&fontSize=70&fontColor=ffffff" width="100%" alt="Fondo animado"/>
 </p>
 
-<!-- 👤 Foto personal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="160" alt="Foto de Alejandro" style="border-radius: 50%; box-shadow: 0px 0px 20px rgba(78,154,241,0.6);" />
+  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="160" alt="Foto de Alejandro" style="border-radius: 50%; border: 3px solid #00f0ff; box-shadow: 0px 0px 20px rgba(0,240,255,0.6);" />
 </p>
 
-<h1 align="center" style="color:#4e9af1;">👋 ¡Hola! Soy <strong>Alejandro García Benítez</strong></h1>
-<h3 align="center">💻 Desarrollador Full Stack | 🧠 Solucionador de problemas | 🇪🇸 España</h3>
+<h1 align="center" style="color:#00f0ff;">🚀 Full Stack Developer & Data Specialist</h1>
+<h3 align="center">Especializado en Ecosistema Java (Spring Boot) | Python (Django) | Ingeniería de Datos</h3>
 
 <p align="center">
-  🚀 <em>"El código no solo construye aplicaciones... también construye oportunidades."</em>
+  🚀 <em>"Transformando flujos de datos complejos en soluciones tecnológicas de alto rendimiento."</em>
 </p>
 
 ---
 
-## 📄 CV y Portafolio
+## 📄 Documentación Profesional
 <p align="center">
-  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV Alejandro García Benítez 2026.pdf" download>
-    <img src="https://img.shields.io/badge/📄%20Descargar%20CV-4E9AF1?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Botón Descargar CV">
+  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV Alejandro García Benítez 2026.pdf">
+    <img src="https://img.shields.io/badge/📄%20Descargar%20CV-00f0ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Descargar CV">
   </a>
   <a href="https://alejandrogb95.github.io/Portafolios/">
-    <img src="https://img.shields.io/badge/🌐%20Ver%20Portafolio-1B263B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Botón Ver Portafolio">
+    <img src="https://img.shields.io/badge/🌐%20Portafolio%20Interactivo-1B263B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Portafolio">
   </a>
 </p>
 
@@ -36,92 +29,62 @@
 
 ## 🚀 Sobre mí
 
-Soy **Desarrollador Full Stack** con formación en **Desarrollo de Aplicaciones Web (DAW)**.  
-Disfruto transformar ideas en código funcional, escalable y visualmente atractivo.  
-Lo que me define no es solo la tecnología que uso, sino **cómo enfrento los retos técnicos y los convierto en oportunidades de aprendizaje.**
+Soy un desarrollador con un enfoque híbrido: la robustez del **Backend en Java** y la agilidad de la **Ingeniería de Datos en Python**. Mi experiencia reciente se centra en la creación de sistemas de monitorización y automatización de procesos masivos de información.
 
-🧩 **Algunas cosas sobre mí:**
-- Me gusta **entender la lógica detrás de cada línea**, no solo escribirla.  
-- Cuando algo falla, no me frustro: **investigo, experimento y lo documento.**  
-- Me adapto rápido a nuevos entornos y frameworks (porque lo disfruto).  
-- Creo que el código debe ser **legible, mantenible y con propósito.**
+🧩 **Mi valor diferencial:**
+- **Dominio del Acceso a Datos (210h):** Especialista en JPA, Hibernate, JDBC y gestión de transacciones críticas.
+- **Mentalidad de Datos:** Experto en automatización (1000% mejora de rendimiento) mediante el uso de Pandas y Web Scraping avanzado.
+- **Compromiso Ético:** Formación alineada con el marco europeo **DIGCOMP** en Ciberseguridad y Programación.
 
-📬 **Contacto directo:** [alexdack95@gmail.com](mailto:alexdack95@gmail.com)
+📬 **Contacto:** [alexdack95@gmail.com](mailto:alexdack95@gmail.com)
 
 ---
 
 ## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,django,java,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,flask,js,react,postgres,mysql,azure,linux,git,github,maven" />
 </p>
 
 ---
 
-## 🏗️ Áreas de especialización
+## 🏗️ Áreas de Especialización
 
-- 🎨 **Frontend:** Interfaces limpias, accesibles y optimizadas para UX real.  
-- ⚙️ **Backend:** APIs REST seguras y estructuradas, autenticación y sesiones.  
-- 🗄️ **Bases de datos:** Diseño lógico y consultas eficientes (MySQL, SQLite).  
-- ☁️ **DevOps básico:** Despliegues en GitHub Pages y servidores ligeros.  
-- 📈 **Buenas prácticas:** Clean Code, modularidad, testing básico y documentación.
+- ⚙️ **Backend & Persistencia:** Desarrollo de APIs REST con **Spring Boot 3.4**, arquitecturas multicapa y mapeo ORM.
+- 📊 **Data Engineering:** Procesamiento masivo con **Pandas**, ecosistemas **Hadoop** y detección de cambios vía **MD5 Hashing**.
+- 🛡️ **Seguridad & Robustez:** Auditoría de estados HTTP, manejo avanzado de excepciones y ciberseguridad aplicada.
+- 🎨 **Modern Frontend:** Interfaces asíncronas con **AJAX/JSON**, React y diseño UI/UX de alta precisión.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f0ff&icon_color=00f0ff" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff" height="160"/>
 </p>
 
-## 🧭 Proyectos Destacados
-
-### 🏆 [Portafolio Web Personal](https://github.com/AlejandroGB95/Portafolios)
-> Un proyecto donde **construí mi propia marca digital**.  
-> El objetivo era crear una web moderna, responsive y totalmente optimizada para móviles, combinando diseño y rendimiento.  
-> Me enfrenté al reto de estructurar una **navegación clara y accesible**, manteniendo coherencia visual con animaciones suaves y sin comprometer la carga.  
-
-**🔧 Tecnologías:** HTML5, CSS3, JavaScript, GitHub Pages.  
-**💡 Lo que aprendí:** cómo comunicar mi identidad profesional a través del diseño, cómo optimizar imágenes y CSS para mejorar el tiempo de carga y cómo versionar el contenido del sitio.  
-
 ---
 
-### 🧠 [Aplicación de Administración de Tareas](https://github.com/AlejandroGB95/Aplicacion-de-Administraci-n-de-Tareas-Solo-Leveling)
-> Una app CRUD completa que permite crear, editar y eliminar tareas, con **registro y login de usuarios**.  
-> El mayor desafío fue implementar **autenticación segura y persistencia de sesiones**, lo cual resolví con Flask y SQLAlchemy.  
-> Además, diseñé un sistema modular para mantener un código **limpio y escalable**.
+## 🧭 Proyectos Destacados (Real-World Logic)
 
-**🔧 Tecnologías:** Python, Flask, SQL, HTML5, CSS3.  
-**💡 Lo que aprendí:** estructura MVC, gestión de rutas dinámicas, validaciones backend y cómo convertir errores en documentación útil.  
+### 🏆 [Sistema de Monitorización Inteligente (ZAITEC)](https://github.com/AlejandroGB95)
+> **Proyecto Profesional.** Plataforma de vigilancia web que automatiza la detección de cambios en boletines oficiales.
+> - **Lógica avanzada:** Algoritmo de comparación basado en **hashes MD5** y `symmetric_difference` para cuantificar cambios textuales.
+> - **Rendimiento:** Implementación de paginación de servidor y actualizaciones de estado asíncronas vía **AJAX**.
+> - **Data Management:** Importación/exportación masiva de filtros (CSV/TXT) mediante Django ORM.
+>
+> **🔧 Tecnologías:** Python, Django, Selenium (Headless), Pandas, PostgreSQL.
 
----
+### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95)
+> Plataforma financiera con **integridad transaccional (ACID)**. Gestión de flujos de dinero, seguridad de datos y panel de usuario dinámico.
+>
+> **🔧 Tecnologías:** Java 21, Spring Boot 3.4, JPA/Hibernate, PostgreSQL, React.
 
-### ⚡ [PokeDex App](https://github.com/AlejandroGB95/Pokedex_AlejandroDev)
-> Una aplicación inspirada en la PokeAPI que muestra información en tiempo real.  
-> Aquí me enfrenté al reto de manejar **estados de carga, paginación dinámica y errores de red**, aplicando principios de asincronía y UX reactiva.  
-> Implementé un diseño responsive con componentes reutilizables, logrando fluidez incluso en conexiones lentas.  
-
-**🔧 Tecnologías:** React, JavaScript (Fetch API), CSS Modules.  
-**💡 Lo que aprendí:** manejo avanzado del estado, optimización de renderizados y buenas prácticas de comunicación con APIs REST.  
-
----
-
-### ☕ [Proyectos en Java con JavaFX](https://github.com/AlejandroGB95/Proyectos-Java)
-> Colección de proyectos creados con JavaFX, abarcando desde CRUDs con base de datos hasta sistemas de interfaz gráfica avanzada.  
-> Aprendí a combinar **lógica de negocio, controladores FXML y diseño visual con Scene Builder**, reforzando la importancia del patrón MVC.  
-
-**🔧 Tecnologías:** Java, JavaFX, Scene Builder, MySQL, Maven.  
-**💡 Lo que aprendí:** modularización de clases, eventos en tiempo real y la importancia del diseño intuitivo en escritorio.
-
----
-
-## 🌍 Filosofía de trabajo
-
-> “No busco solo que algo funcione, busco entender *por qué* funciona.”  
-Cada proyecto que realizo es una oportunidad para mejorar mi forma de pensar, optimizar procesos y crear soluciones que aporten valor real.
-
-Me inspiro en equipos colaborativos, código limpio y proyectos donde el aprendizaje nunca se detiene.
+### ⚡ [Plataforma Trading & Real-Time Data](https://github.com/AlejandroGB95/Freelance)
+> Interfaz de alta precisión para monitorización de mercados mediante consumo asíncrono de APIs externas.
+>
+> **🔧 Tecnologías:** JavaScript ES6+, Fetch API, HTML5/CSS3.
 
 ---
 
@@ -140,7 +103,6 @@ Me inspiro en equipos colaborativos, código limpio y proyectos donde el aprendi
   “El mejor código no es el que solo funciona… es el que otros pueden entender, mantener y mejorar.”
 </p>
 
-<!-- 🌊 Fondo inferior animado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:4e9af1&height=100&section=footer" width="100%" alt="Fondo animado"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00f0ff&height=100&section=footer" width="100%" alt="Fondo animado"/>
 </p>
