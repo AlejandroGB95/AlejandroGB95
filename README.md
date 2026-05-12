@@ -17,7 +17,7 @@
 
 ## 📄 Documentación Profesional
 <p align="center">
-  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV Alejandro García Benítez 2026.pdf">
+  <a href="https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV_Alejandro_García_Benítez.pdf">
     <img src="https://img.shields.io/badge/📄%20Descargar%20CV-00f0ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Descargar CV">
   </a>
   <a href="https://alejandrogb95.github.io/Portafolios/">
