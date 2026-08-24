@@ -20,13 +20,79 @@
 <!--ABOUT ME-->
 <div align="center">
 
-### 🚀 Sobre mí
+---
 
-Desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Especializado en diseñar arquitecturas REST transaccionales, automatización de procesos y dashboards reactivos.
+## 🚀 Sobre mí
 
-> *"El mejor código no es el que solo funciona… es el que otros pueden entender, mantener y mejorar."*
+Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Mi experiencia abarca desde el desarrollo de plataformas transaccionales y herramientas financieras en tiempo real hasta plataformas e-commerce e interfaces dinámicas.
 
-</div>
+🧩 **Mi valor diferencial:**
+- **Dominio Backend & Persistencia:** Arquitecturas REST con Spring Boot 3.4, JPA/Hibernate, JDBC y gestión de transacciones críticas ACID.
+- **Procesamiento e Ingeniería de Datos:** Automatización de flujos de datos, consumo de APIs complejas y análisis con **Pandas** y **Selenium**.
+- **Desarrollo Full-Stack Moderno:** Interfaces reactivas con React, TypeScript, consumo asíncrono de APIs en tiempo real y métricas visuales.
+- **Calidad & Estándares:** Enfoque en Ciberseguridad, testing estructurado y buenas prácticas de desarrollo.
+
+📬 **Contacto:** [alexdack95@gmail.com](mailto:alexdack95@gmail.com)
+
+---
+
+## 🧠 Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,js,ts,react,tailwind,bootstrap,postgres,oracle,linux,git,github,maven&theme=dark&perline=8" alt="Tech Stack" />
+</p>
+
+---
+
+## 🏗️ Áreas de Especialización
+
+- ⚙️ **Backend & Persistencia:** APIs RESTful, Spring Boot 3.4, ORM (JPA/Hibernate), diseño y optimización de BD relacionales (PostgreSQL, Oracle).
+- 📊 **Data Engineering & Automation:** Web Scraping avanzado con Selenium (Headless), hashing MD5 para auditoría de diferencias y análisis masivo con Pandas.
+- 🎨 **Frontend & Data Viz:** Interfaces reactivas (React, TypeScript, Tailwind CSS), consumo de APIs asíncronas (**AJAX/Fetch**) y analítica visual en tiempo real con **Chart.js**.
+- 🛡️ **Arquitectura & Metodologías:** Control de errores centralizado, diseño modular y metodologías ágiles de trabajo.
+
+---
+
+## 🧭 Proyectos Destacados
+
+### 📈 [Plataforma de Trading - Financial Market Monitor](https://github.com/AlejandroGB95)
+> **Herramienta de monitorización financiera en tiempo real** enfocada en el análisis asíncrono y visualización de mercados.
+> - **Consumo Asíncrono:** Arquitectura basada en **JavaScript ES6+** y **Fetch API** para el procesamiento continuo de datos de mercado.
+> - **Actualización en Tiempo Real:** Renderizado reactivo de la fluctuación de precios e indicadores clave sin recarga de página.
+> - **Manejo de Errores & Resiliencia:** Control eficiente de conexiones HTTP, gestión de estados y filtrado dinámico en cliente.
+>
+> **🔧 Tecnologías:** JavaScript (ES6+), Fetch API, HTML5, CSS3, REST APIs.
+
+<br/>
+
+### 🛍️ [E-Commerce Perfumería Web App](https://github.com/AlejandroGB95)
+> **Plataforma e-commerce para gestión y catálogo de perfumería**, diseñada para optimizar la experiencia de búsqueda y compra.
+> - **Gestión de Catálogo:** Filtrado avanzado por marcas, familias olfativas y rangos de precio con rendimiento optimizado.
+> - **Persistencia & Backend:** Modelado relacional de datos de productos, usuarios y carritos de compra.
+> - **UI/UX Intuitiva:** Interfaz responsive y modular orientada a la conversión y navegación ágil.
+>
+> **🔧 Tecnologías:** PHP / Python, JavaScript, MySQL / PostgreSQL, HTML5, CSS3 / Bootstrap.
+
+<br/>
+
+### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95)
+> Plataforma financiera enfocada en la **integridad transaccional (ACID)**, gestión de flujos de efectivo, autenticación segura y dashboard interactivo.
+> - **Arquitectura Multicapa:** Separación clara entre capa de persistencia, servicios de negocio y controladores REST.
+> - **Seguridad y Control:** Garantía de coherencia en operaciones concurrentes de saldo y transferencias.
+>
+> **🔧 Tecnologías:** Java 21, Spring Boot 3.4, JPA/Hibernate, PostgreSQL, React.
+
+<br/>
+
+### ⚡ [PokéNexus Studio - Interactive Web Portal](https://github.com/AlejandroGB95)
+> **Portal web interactivo de alto rendimiento** que combina analítica visual de datos y consumo de APIs multimedia en tiempo real.
+> - **Analítica Visual:** Integración de **Chart.js** para renderizar métricas comparativas y estadísticas dinámicamente.
+> - **Consumo Asíncrono:** Arquitectura orientada al consumo de **PokéAPI** con filtrado eficiente en cliente.
+>
+> **🔧 Tecnologías:** JavaScript / TypeScript, React, Chart.js, PokéAPI, Tailwind CSS.
+
+---
+
 
 ---
 
