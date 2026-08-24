@@ -46,7 +46,7 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 <!--PROJECTS-->
 ## 🧭 Proyectos Destacados
 
-### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95)
+### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95/Proyecto-Billetera-backend)
 > Plataforma financiera enfocada en la **integridad transaccional (ACID)**, gestión de flujos de efectivo, autenticación segura y dashboard interactivo.
 > - **Arquitectura Multicapa:** Separación clara entre capa de persistencia, servicios de negocio y controladores REST.
 > - **Seguridad y Control:** Garantía de coherencia en operaciones concurrentes de saldo y transferencias.
@@ -55,7 +55,7 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 
 <br/>
 
-### ⚡ [PokéNexus Studio - Interactive Web Portal](https://github.com/AlejandroGB95)
+### ⚡ [PokéNexus Studio - Interactive Web Portal](https://alejandrogb95.github.io/Portafolios/proyectos/ProyectoPokemon/pokemon.html)
 > **Portal web interactivo de alto rendimiento** que combina analítica visual de datos y consumo de APIs multimedia en tiempo real.
 > - **Analítica Visual:** Integración de **Chart.js** para renderizar métricas comparativas y estadísticas dinámicamente.
 > - **Consumo Asíncrono:** Arquitectura orientada al consumo de **PokéAPI** con filtrado eficiente en cliente.
@@ -73,7 +73,7 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 
 <br/>
 
-### 📈 [Plataforma de Trading - Financial Market Monitor](https://github.com/AlejandroGB95)
+### 📈 [Plataforma de Trading - Financial Market Monitor](https://alejandrogb95.github.io/Freelance/index.html)
 > **Herramienta de monitorización financiera en tiempo real** enfocada en el análisis asíncrono y visualización de mercados.
 > - **Consumo Asíncrono:** Arquitectura basada en **JavaScript ES6+** y **Fetch API** para el procesamiento continuo de datos de mercado.
 > - **Actualización en Tiempo Real:** Renderizado reactivo de la fluctuación de precios e indicadores clave sin recarga de página.
@@ -82,7 +82,7 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 
 <br/>
 
-### 🛍️ [E-Commerce Perfumería Web App](https://github.com/AlejandroGB95)
+### 🛍️ [E-Commerce Perfumería Web App](https://alejandrogb95.github.io/Charme---Perfumeria--Cosm-ticos/)
 > **Plataforma e-commerce para gestión y catálogo de perfumería**, diseñada para optimizar la experiencia de búsqueda y compra.
 > - **Gestión de Catálogo:** Filtrado avanzado por marcas, familias olfativas y rangos de precio con rendimiento optimizado.
 > - **Persistencia & Backend:** Modelado relacional de datos de productos, usuarios y carritos de compra.
