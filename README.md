@@ -6,7 +6,7 @@
 <!--BANNER & TYPING SVG-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Data+Specialist;Java+%28Spring+Boot%29+%7C+Python+%28Django+%26+Data%29;Web+Architectures+%26+Data+Pipelines;Building+scalable+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Data+Specialist;Java+%28Spring+Boot%29+%7C+Python+%28Django+%26+Data%29;Web+Architectures+%26+Financial+Tools;Building+scalable+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,13 +30,15 @@
 
 ## 🚀 Sobre mí
 
-Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Mi experiencia abarca desde el desarrollo de plataformas transaccionales hasta la creación de herramientas de monitorización y arquitecturas frontend dinámicas.
+Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Mi experiencia abarca desde el desarrollo de plataformas transaccionales y herramientas financieras en tiempo real hasta plataformas e-commerce e interfaces dinámicas.
 
 🧩 **Mi valor diferencial:**
 - **Dominio Backend & Persistencia:** Arquitecturas REST con Spring Boot 3.4, JPA/Hibernate, JDBC y gestión de transacciones críticas ACID.
-- **Procesamiento e Ingeniería de Datos:** Automatización de scraping masivo con **Selenium** y análisis con **Pandas**, optimizando el rendimiento de flujos de datos.
-- **Desarrollo Full-Stack Moderno:** Interfaces reactivas con React, TypeScript, consumo asíncrono de APIs complejas y métricas visuales.
+- **Procesamiento e Ingeniería de Datos:** Automatización de flujos de datos, consumo de APIs complejas y análisis con **Pandas** y **Selenium**.
+- **Desarrollo Full-Stack Moderno:** Interfaces reactivas con React, TypeScript, consumo asíncrono de APIs en tiempo real y métricas visuales.
 - **Calidad & Estándares:** Enfoque en Ciberseguridad, testing estructurado y buenas prácticas de desarrollo.
+
+📬 **Contacto:** [alexdack95@gmail.com](mailto:alexdack95@gmail.com)
 
 ---
 
@@ -59,30 +61,41 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 
 ## 🧭 Proyectos Destacados
 
-### ⚡ [PokéNexus Studio - Interactive Web Portal](https://github.com/AlejandroGB95)
-> **Portal web interactivo de alto rendimiento** que combina analítica visual de datos y consumo de APIs multimedia en tiempo real.
-> - **Analítica Visual:** Integración de **Chart.js** para renderizar métricas comparativas y estadísticas de datos dinámicamente.
-> - **Consumo Asíncrono:** Arquitectura orientada al consumo de **PokéAPI** con filtrado eficiente en cliente y streaming embebido.
-> - **UI/UX Reactiva:** Componentes reutilizables y respuesta inmediata a la interacción del usuario.
+### 📈 [Plataforma de Trading - Financial Market Monitor](https://github.com/AlejandroGB95)
+> **Herramienta de monitorización financiera en tiempo real** enfocada en el análisis asíncrono y visualización de mercados.
+> - **Consumo Asíncrono:** Arquitectura basada en **JavaScript ES6+** y **Fetch API** para el procesamiento continuo de datos de mercado.
+> - **Actualización en Tiempo Real:** Renderizado reactivo de la fluctuación de precios e indicadores clave sin recarga de página.
+> - **Manejo de Errores & Resiliencia:** Control eficiente de conexiones HTTP, gestión de estados y filtrado dinámico en cliente.
 >
-> **🔧 Tecnologías:** JavaScript / TypeScript, React, Chart.js, PokéAPI, Tailwind CSS.
+> **🔧 Tecnologías:** JavaScript (ES6+), Fetch API, HTML5, CSS3, REST APIs.
 
 <br/>
 
-### 🏆 [Sistema de Monitorización Inteligente (ZAITEC)](https://github.com/AlejandroGB95)
-> **Proyecto Profesional.** Plataforma de vigilancia web que automatiza la detección de cambios en boletines oficiales.
-> - **Algoritmos Avanzados:** Comparación con **hashes MD5** y `symmetric_difference` para cuantificar cambios textuales.
-> - **Optimización de Rendimiento:** Paginación de servidor y actualizaciones de estado asíncronas vía **AJAX**.
-> - **Gestión de Datos:** Importación/exportación masiva de filtros (CSV/TXT) mediante Django ORM.
+### 🛍️ [E-Commerce Perfumería Web App](https://github.com/AlejandroGB95)
+> **Plataforma e-commerce para gestión y catálogo de perfumería**, diseñada para optimizar la experiencia de búsqueda y compra.
+> - **Gestión de Catálogo:** Filtrado avanzado por marcas, familias olfativas y rangos de precio con rendimiento optimizado.
+> - **Persistencia & Backend:** Modelado relacional de datos de productos, usuarios y carritos de compra.
+> - **UI/UX Intuitiva:** Interfaz responsive y modular orientada a la conversión y navegación ágil.
 >
-> **🔧 Tecnologías:** Python, Django, Selenium (Headless), Pandas, PostgreSQL.
+> **🔧 Tecnologías:** PHP / Python, JavaScript, MySQL / PostgreSQL, HTML5, CSS3 / Bootstrap.
 
 <br/>
 
 ### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95)
 > Plataforma financiera enfocada en la **integridad transaccional (ACID)**, gestión de flujos de efectivo, autenticación segura y dashboard interactivo.
+> - **Arquitectura Multicapa:** Separación clara entre capa de persistencia, servicios de negocio y controladores REST.
+> - **Seguridad y Control:** Garantía de coherencia en operaciones concurrentes de saldo y transferencias.
 >
 > **🔧 Tecnologías:** Java 21, Spring Boot 3.4, JPA/Hibernate, PostgreSQL, React.
+
+<br/>
+
+### ⚡ [PokéNexus Studio - Interactive Web Portal](https://github.com/AlejandroGB95)
+> **Portal web interactivo de alto rendimiento** que combina analítica visual de datos y consumo de APIs multimedia en tiempo real.
+> - **Analítica Visual:** Integración de **Chart.js** para renderizar métricas comparativas y estadísticas dinámicamente.
+> - **Consumo Asíncrono:** Arquitectura orientada al consumo de **PokéAPI** con filtrado eficiente en cliente.
+>
+> **🔧 Tecnologías:** JavaScript / TypeScript, React, Chart.js, PokéAPI, Tailwind CSS.
 
 ---
 
