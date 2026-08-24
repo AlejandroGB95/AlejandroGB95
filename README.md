@@ -145,14 +145,23 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 </div>
 
 ---
-
 <!--CONTACT-->
 <div align="center">
 
-<h2>📬 Let's Connect</h2>
+<h2>📬 Conecta conmigo</h2>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00f0ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://alejandrogb95.github.io/Portafolios/)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdack95@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdack95@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroGB95)
+
+<br/>
+
+<p style="font-style: italic; font-size: 16px;">
+  “El mejor código no es el que solo funciona… es el que otros pueden entender, mantener y mejorar.”
+</p>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00f0ff&height=100&section=footer" width="100%" alt="Footer Banner"/>
+</p>
