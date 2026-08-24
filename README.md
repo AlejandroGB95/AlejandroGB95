@@ -1,121 +1,74 @@
-<!--HEADER BANNER-->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00f0ff&height=140&section=header&text=Alejandro%20Garc%C3%ADa&fontSize=60&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner"/>
-</p>
-
-<!--BANNER & TYPING SVG-->
+<!--BANNER-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Data+Specialist;Java+%28Spring+Boot%29+%7C+Python+%28Django+%26+Data%29;Web+Architectures+%26+Financial+Tools;Building+scalable+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Alejandro+Garc%C3%ADa+%F0%9F%91%8B;Full+Stack+%26+Data+Specialist;Java+%28Spring+Boot%29+%26+Python+%28Django%29;Building+scalable+web+architectures+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://github.com/AlejandroGB95">
-  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="140" height="140" alt="Foto de Alejandro" style="border-radius: 50%; border: 3px solid #00f0ff; box-shadow: 0px 0px 20px rgba(0,240,255,0.6);" />
+  <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="130" height="130" alt="Foto de Alejandro" style="border-radius: 50%; border: 3px solid #00f0ff; box-shadow: 0px 0px 20px rgba(0,240,255,0.6);" />
 </a>
 
 <br/><br/>
 
 [![Descargar CV](https://img.shields.io/badge/📄_Descargar_CV-00f0ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://github.com/AlejandroGB95/AlejandroGB95/raw/main/CV_Alejandro_Garcia_Benitez.pdf)
-[![Portafolio](https://img.shields.io/badge/🌐_Portafolio_Interactivo-1B263B?style=for-the-badge&logo=githubpages&logoColor=white)](https://alejandrogb95.github.io/Portafolios/)
+[![Portafolio](https://img.shields.io/badge/🌐_Portafolio-1B263B?style=for-the-badge&logo=githubpages&logoColor=white)](https://alejandrogb95.github.io/Portafolios/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/)
-
-<br/>
-
-> *"Transformando flujos de datos complejos y arquitecturas backend en soluciones tecnológicas eficientes."*
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+<!--ABOUT ME-->
+<div align="center">
 
-Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Mi experiencia abarca desde el desarrollo de plataformas transaccionales y herramientas financieras en tiempo real hasta plataformas e-commerce e interfaces dinámicas.
+### 🚀 Sobre mí
 
-🧩 **Mi valor diferencial:**
-- **Dominio Backend & Persistencia:** Arquitecturas REST con Spring Boot 3.4, JPA/Hibernate, JDBC y gestión de transacciones críticas ACID.
-- **Procesamiento e Ingeniería de Datos:** Automatización de flujos de datos, consumo de APIs complejas y análisis con **Pandas** y **Selenium**.
-- **Desarrollo Full-Stack Moderno:** Interfaces reactivas con React, TypeScript, consumo asíncrono de APIs en tiempo real y métricas visuales.
-- **Calidad & Estándares:** Enfoque en Ciberseguridad, testing estructurado y buenas prácticas de desarrollo.
+Desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Especializado en diseñar arquitecturas REST transaccionales, automatización de procesos y dashboards reactivos.
 
-📬 **Contacto:** [alexdack95@gmail.com](mailto:alexdack95@gmail.com)
+> *"El mejor código no es el que solo funciona… es el que otros pueden entender, mantener y mejorar."*
 
----
-
-## 🧠 Stack Tecnológico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,js,ts,react,tailwind,bootstrap,postgres,oracle,linux,git,github,maven&theme=dark&perline=8" alt="Tech Stack" />
-</p>
+</div>
 
 ---
 
-## 🏗️ Áreas de Especialización
+<!--TECH STACK-->
+<div align="center">
+  <h2>🔧 Tools I Build With</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,python,django,js,ts,react&perline=8)](https://skillicons.dev)
 
-- ⚙️ **Backend & Persistencia:** APIs RESTful, Spring Boot 3.4, ORM (JPA/Hibernate), diseño y optimización de BD relacionales (PostgreSQL, Oracle).
-- 📊 **Data Engineering & Automation:** Web Scraping avanzado con Selenium (Headless), hashing MD5 para auditoría de diferencias y análisis masivo con Pandas.
-- 🎨 **Frontend & Data Viz:** Interfaces reactivas (React, TypeScript, Tailwind CSS), consumo de APIs asíncronas (**AJAX/Fetch**) y analítica visual en tiempo real con **Chart.js**.
-- 🛡️ **Arquitectura & Metodologías:** Control de errores centralizado, diseño modular y metodologías ágiles de trabajo.
+[![My Skills](https://skillicons.dev/icons?i=postgres,oracle,tailwind,bootstrap,linux,git,github,maven&perline=8)](https://skillicons.dev)
+
+</div>
 
 ---
 
-## 🧭 Proyectos Destacados
+<!--PROJECTS-->
+<div align="center">
+  <h2>Featured Projects</h2>
 
-### 📈 [Plataforma de Trading - Financial Market Monitor](https://github.com/AlejandroGB95)
-> **Herramienta de monitorización financiera en tiempo real** enfocada en el análisis asíncrono y visualización de mercados.
-> - **Consumo Asíncrono:** Arquitectura basada en **JavaScript ES6+** y **Fetch API** para el procesamiento continuo de datos de mercado.
-> - **Actualización en Tiempo Real:** Renderizado reactivo de la fluctuación de precios e indicadores clave sin recarga de página.
-> - **Manejo de Errores & Resiliencia:** Control eficiente de conexiones HTTP, gestión de estados y filtrado dinámico en cliente.
->
-> **🔧 Tecnologías:** JavaScript (ES6+), Fetch API, HTML5, CSS3, REST APIs.
+[![App Billetera Digital](https://img.shields.io/badge/💳_Billetera_Digital_Full_Stack-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/AlejandroGB95)
+[![PokéNexus Studio](https://img.shields.io/badge/⚡_PokéNexus_Studio-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/AlejandroGB95)
+[![ZAITEC Monitorización](https://img.shields.io/badge/🏆_ZAITEC_Monitoring-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/AlejandroGB95)
 
-<br/>
-
-### 🛍️ [E-Commerce Perfumería Web App](https://github.com/AlejandroGB95)
-> **Plataforma e-commerce para gestión y catálogo de perfumería**, diseñada para optimizar la experiencia de búsqueda y compra.
-> - **Gestión de Catálogo:** Filtrado avanzado por marcas, familias olfativas y rangos de precio con rendimiento optimizado.
-> - **Persistencia & Backend:** Modelado relacional de datos de productos, usuarios y carritos de compra.
-> - **UI/UX Intuitiva:** Interfaz responsive y modular orientada a la conversión y navegación ágil.
->
-> **🔧 Tecnologías:** PHP / Python, JavaScript, MySQL / PostgreSQL, HTML5, CSS3 / Bootstrap.
-
-<br/>
-
-### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95)
-> Plataforma financiera enfocada en la **integridad transaccional (ACID)**, gestión de flujos de efectivo, autenticación segura y dashboard interactivo.
-> - **Arquitectura Multicapa:** Separación clara entre capa de persistencia, servicios de negocio y controladores REST.
-> - **Seguridad y Control:** Garantía de coherencia en operaciones concurrentes de saldo y transferencias.
->
-> **🔧 Tecnologías:** Java 21, Spring Boot 3.4, JPA/Hibernate, PostgreSQL, React.
-
-<br/>
-
-### ⚡ [PokéNexus Studio - Interactive Web Portal](https://github.com/AlejandroGB95)
-> **Portal web interactivo de alto rendimiento** que combina analítica visual de datos y consumo de APIs multimedia en tiempo real.
-> - **Analítica Visual:** Integración de **Chart.js** para renderizar métricas comparativas y estadísticas dinámicamente.
-> - **Consumo Asíncrono:** Arquitectura orientada al consumo de **PokéAPI** con filtrado eficiente en cliente.
->
-> **🔧 Tecnologías:** JavaScript / TypeScript, React, Chart.js, PokéAPI, Tailwind CSS.
+</div>
 
 ---
 
 <!--GITHUB STATS-->
 <div align="center">
 
-<h2>📊 Estadísticas de GitHub</h2>
+<h2>📊 GitHub Stats</h2>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00f0ff&icon_color=00f0ff" alt="Estadísticas de GitHub" />
+      <img src="https://github-stats-extended.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&border_color=21262d&hide_border=false&bg_color=0d1117&text_color=ffffff" />
     </td>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff" alt="Lenguajes más usados" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&title_color=00f0ff&border_color=21262d&bg_color=0d1117&text_color=ffffff" />
     </td>
   </tr>
 </table>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroGB95&theme=tokyonight&hide_border=true&background=0D1B2A&stroke=00F0FF&alarm=00F0FF" alt="GitHub Streak" />
 
@@ -130,20 +83,10 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 <!--CONTACT-->
 <div align="center">
 
-<h2>📬 Conecta conmigo</h2>
+<h2>📬 Let's Connect</h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdack95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejandroGB95)
-
-<br/>
-
-<p style="font-style: italic; font-size: 16px;">
-  “El mejor código no es el que solo funciona… es el que otros pueden entender, mantener y mejorar.”
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00f0ff?style=for-the-badge&logo=githubpages&logoColor=black)](https://alejandrogb95.github.io/Portafolios/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdack95@gmail.com)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:00f0ff&height=100&section=footer" width="100%" alt="Footer Banner"/>
-</p>
