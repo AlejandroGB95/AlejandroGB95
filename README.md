@@ -1,7 +1,7 @@
 <!--BANNER-->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Alejandro+Garc%C3%ADa+%F0%9F%91%8B;Full+Stack+%26+Data+Specialist;Java+%28Spring+Boot%29+%26+Python+%28Django%29;Building+scalable+web+architectures+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Alejandro+Garc%C3%ADa+%F0%9F%91%8B;Full+Stack+%26+Data+Specialist;Java+%28Spring+Boot%29+%26+Python+%28Django%29;Building+scalable+web+architectures+%F0%9F%9A%80)](https://github.com/AlejandroGB95)
 
 <a href="https://github.com/AlejandroGB95">
   <img src="https://raw.githubusercontent.com/AlejandroGB95/AlejandroGB95/main/otra%20foto%20mia.jpg" width="130" height="130" alt="Foto de Alejandro" style="border-radius: 50%; border: 3px solid #00f0ff; box-shadow: 0px 0px 20px rgba(0,240,255,0.6);" />
@@ -18,10 +18,6 @@
 ---
 
 <!--ABOUT ME-->
-<div align="center">
-
----
-
 ## 🚀 Sobre mí
 
 Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring Boot)** y la agilidad de **Python para la automatización e Ingeniería de Datos**. Mi experiencia abarca desde el desarrollo de plataformas transaccionales y herramientas financieras en tiempo real hasta plataformas e-commerce e interfaces dinámicas.
@@ -36,44 +32,19 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 
 ---
 
-## 🧠 Stack Tecnológico
+<!--TECH STACK-->
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,js,ts,react,tailwind,bootstrap,postgres,oracle,linux,git,github,maven&theme=dark&perline=8" alt="Tech Stack" />
-</p>
+## 🛠️ Stack Tecnológico & Herramientas
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,js,ts,react,tailwind,bootstrap,postgres,oracle,linux,git,github,maven&theme=dark&perline=8" alt="Tech Stack" />
 
-## 🏗️ Áreas de Especialización
-
-- ⚙️ **Backend & Persistencia:** APIs RESTful, Spring Boot 3.4, ORM (JPA/Hibernate), diseño y optimización de BD relacionales (PostgreSQL, Oracle).
-- 📊 **Data Engineering & Automation:** Web Scraping avanzado con Selenium (Headless), hashing MD5 para auditoría de diferencias y análisis masivo con Pandas.
-- 🎨 **Frontend & Data Viz:** Interfaces reactivas (React, TypeScript, Tailwind CSS), consumo de APIs asíncronas (**AJAX/Fetch**) y analítica visual en tiempo real con **Chart.js**.
-- 🛡️ **Arquitectura & Metodologías:** Control de errores centralizado, diseño modular y metodologías ágiles de trabajo.
+</div>
 
 ---
 
+<!--PROJECTS-->
 ## 🧭 Proyectos Destacados
-
-### 📈 [Plataforma de Trading - Financial Market Monitor](https://github.com/AlejandroGB95)
-> **Herramienta de monitorización financiera en tiempo real** enfocada en el análisis asíncrono y visualización de mercados.
-> - **Consumo Asíncrono:** Arquitectura basada en **JavaScript ES6+** y **Fetch API** para el procesamiento continuo de datos de mercado.
-> - **Actualización en Tiempo Real:** Renderizado reactivo de la fluctuación de precios e indicadores clave sin recarga de página.
-> - **Manejo de Errores & Resiliencia:** Control eficiente de conexiones HTTP, gestión de estados y filtrado dinámico en cliente.
->
-> **🔧 Tecnologías:** JavaScript (ES6+), Fetch API, HTML5, CSS3, REST APIs.
-
-<br/>
-
-### 🛍️ [E-Commerce Perfumería Web App](https://github.com/AlejandroGB95)
-> **Plataforma e-commerce para gestión y catálogo de perfumería**, diseñada para optimizar la experiencia de búsqueda y compra.
-> - **Gestión de Catálogo:** Filtrado avanzado por marcas, familias olfativas y rangos de precio con rendimiento optimizado.
-> - **Persistencia & Backend:** Modelado relacional de datos de productos, usuarios y carritos de compra.
-> - **UI/UX Intuitiva:** Interfaz responsive y modular orientada a la conversión y navegación ágil.
->
-> **🔧 Tecnologías:** PHP / Python, JavaScript, MySQL / PostgreSQL, HTML5, CSS3 / Bootstrap.
-
-<br/>
 
 ### 🧠 [App Billetera Digital - Full Stack](https://github.com/AlejandroGB95)
 > Plataforma financiera enfocada en la **integridad transaccional (ACID)**, gestión de flujos de efectivo, autenticación segura y dashboard interactivo.
@@ -91,47 +62,47 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 >
 > **🔧 Tecnologías:** JavaScript / TypeScript, React, Chart.js, PokéAPI, Tailwind CSS.
 
----
+<br/>
 
+### 🏆 [Plataforma de Monitorización ZAITEC](https://github.com/AlejandroGB95)
+> **Plataforma web de monitorización y auditoría técnica** para la supervisión de cambios en portales web.
+> - **Automatización y Scraping:** Extracción continua de datos utilizando **Selenium** y scripts en Python.
+> - **Control de Integridad:** Implementación de hashing **MD5** para detección automática de discrepancias.
+>
+> **🔧 Tecnologías:** Python, Django, Selenium, MD5, PostgreSQL.
 
----
+<br/>
 
-<!--TECH STACK-->
-<div align="center">
-  <h2>🔧 Tools I Build With</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,python,django,js,ts,react&perline=8)](https://skillicons.dev)
+### 📈 [Plataforma de Trading - Financial Market Monitor](https://github.com/AlejandroGB95)
+> **Herramienta de monitorización financiera en tiempo real** enfocada en el análisis asíncrono y visualización de mercados.
+> - **Consumo Asíncrono:** Arquitectura basada en **JavaScript ES6+** y **Fetch API** para el procesamiento continuo de datos de mercado.
+> - **Actualización en Tiempo Real:** Renderizado reactivo de la fluctuación de precios e indicadores clave sin recarga de página.
+>
+> **🔧 Tecnologías:** JavaScript (ES6+), Fetch API, HTML5, CSS3, REST APIs.
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,oracle,tailwind,bootstrap,linux,git,github,maven&perline=8)](https://skillicons.dev)
+<br/>
 
-</div>
-
----
-
-<!--PROJECTS-->
-<div align="center">
-  <h2>Featured Projects</h2>
-
-[![App Billetera Digital](https://img.shields.io/badge/💳_Billetera_Digital_Full_Stack-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/AlejandroGB95)
-[![PokéNexus Studio](https://img.shields.io/badge/⚡_PokéNexus_Studio-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/AlejandroGB95)
-[![ZAITEC Monitorización](https://img.shields.io/badge/🏆_ZAITEC_Monitoring-GitHub-21262d?style=for-the-badge&logo=github)](https://github.com/AlejandroGB95)
-
-</div>
+### 🛍️ [E-Commerce Perfumería Web App](https://github.com/AlejandroGB95)
+> **Plataforma e-commerce para gestión y catálogo de perfumería**, diseñada para optimizar la experiencia de búsqueda y compra.
+> - **Gestión de Catálogo:** Filtrado avanzado por marcas, familias olfativas y rangos de precio con rendimiento optimizado.
+> - **Persistencia & Backend:** Modelado relacional de datos de productos, usuarios y carritos de compra.
+>
+> **🔧 Tecnologías:** PHP / Python, JavaScript, MySQL / PostgreSQL, HTML5, CSS3 / Bootstrap.
 
 ---
 
 <!--GITHUB STATS-->
 <div align="center">
 
-<h2>📊 GitHub Stats</h2>
+## 📊 Estadísticas de GitHub
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&border_color=21262d&hide_border=false&bg_color=0d1117&text_color=ffffff" />
+    <td align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=AlejandroGB95&show_icons=true&theme=tokyonight&title_color=00f0ff&icon_color=00f0ff&border_color=21262d&hide_border=false&bg_color=0d1117&text_color=ffffff" alt="Estadísticas Generales" />
     </td>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&title_color=00f0ff&border_color=21262d&bg_color=0d1117&text_color=ffffff" />
+    <td align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlejandroGB95&layout=compact&theme=tokyonight&title_color=00f0ff&border_color=21262d&bg_color=0d1117&text_color=ffffff" alt="Lenguajes más usados" />
     </td>
   </tr>
 </table>
@@ -145,10 +116,11 @@ Soy desarrollador software enfocado en la solidez del **Backend con Java (Spring
 </div>
 
 ---
+
 <!--CONTACT-->
 <div align="center">
 
-<h2>📬 Conecta conmigo</h2>
+## 📬 Conecta conmigo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdack95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-garc%C3%ADa-ben%C3%ADtez-desarrolladorweb/)
